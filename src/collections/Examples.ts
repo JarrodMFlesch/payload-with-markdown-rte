@@ -12,7 +12,7 @@ const Examples: CollectionConfig = {
       name: "richText",
       type: "richText",
       admin: {
-        elements: ["h2", markdownElement, 'upload'],
+        elements: ["h2", markdownElement],
       },
     },
   ],
